@@ -1,0 +1,7 @@
+C:\Users\Jeshua\Documents\AdolphHitler\MEJORANDO CLASE\MEJORANDO CLASE\bin\Debug\MEJORANDO CLASE.exe.config
+C:\Users\Jeshua\Documents\AdolphHitler\MEJORANDO CLASE\MEJORANDO CLASE\bin\Debug\MEJORANDO CLASE.exe
+C:\Users\Jeshua\Documents\AdolphHitler\MEJORANDO CLASE\MEJORANDO CLASE\bin\Debug\MEJORANDO CLASE.pdb
+C:\Users\Jeshua\Documents\AdolphHitler\MEJORANDO CLASE\MEJORANDO CLASE\obj\Debug\MEJORANDO CLASE.csprojResolveAssemblyReference.cache
+C:\Users\Jeshua\Documents\AdolphHitler\MEJORANDO CLASE\MEJORANDO CLASE\obj\Debug\MEJORANDO CLASE.csproj.CoreCompileInputs.cache
+C:\Users\Jeshua\Documents\AdolphHitler\MEJORANDO CLASE\MEJORANDO CLASE\obj\Debug\MEJORANDO CLASE.exe
+C:\Users\Jeshua\Documents\AdolphHitler\MEJORANDO CLASE\MEJORANDO CLASE\obj\Debug\MEJORANDO CLASE.pdb
